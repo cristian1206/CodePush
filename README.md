@@ -68,6 +68,19 @@ You've successfully run and modified your React Native App. :partying_face:
 
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
+# Code push 
+Es importante que para la implementacion de codePush se tengan los siguientes requisitos:
+- Cuenta en appcenter.
+- App y ambientes definidos dentro de appcenter.
+
+
+# Documentacion 
+Para la configuracion de este proyecto se tomaron las siguientes guias:
+
+- [Documentacion oficial de codePush](https://github.com/microsoft/react-native-code-push?tab=readme-ov-file)
+- [Documentacion Medium](https://medium.com/@ritika100898/implementing-codepush-for-over-the-air-updates-in-react-native-535e750ec308)
+
+
 # Learn More
 
 To learn more about React Native, take a look at the following resources:
